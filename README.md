@@ -26,5 +26,5 @@
 * Keep communication channels open and civil so that all members can feel free to voice their ideas and complaints. 
 * Require pull another group member to merge in pull requests.
 * Merge into dev and use it as our production branch, keeping master in tact.
-
+### More
 * [How To Use The App](LINK)
